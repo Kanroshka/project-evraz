@@ -1,1 +1,1 @@
-
+Для запуска сервера необходимо использовать команду: gunicorn -b 127.0.0.1:8009 chat_backend.composites.chat_api:app --reload
